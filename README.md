@@ -1,7 +1,7 @@
 # ETG-internship-Inventory-managment-system
 I have included 2 json files ( records &sales ) and also the python code for an Inventory management system.
 
-The code can erform the following functions :
+The code can perform the following functions :
 1) Generate Bills
 2) Add new items to the inventory
 3) Create sales file after selling a product
